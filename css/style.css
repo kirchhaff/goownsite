@@ -1,0 +1,201 @@
+#outer
+{
+height: 1000px;
+width: 1330px;
+}
+#hd
+{
+margin:0px auto;
+color:white;
+background-color:darkblue;
+border-radius:50px 50px 0px 0px;
+font:comic sans ms;
+
+}
+#mid
+{
+height:900px;
+width:1330px;
+background-color:lightblue
+border-top: 1px lightblue;
+}
+#google
+{
+height:500px;
+width:405px;
+margin-left:5px;
+margin-top: 5px;
+float: left;
+}
+#up1
+{
+height:400px;
+width:405px;
+background-color:white;
+}
+#lo1
+{
+height:100px;
+width:405px;
+background-color:midnightblue;
+}
+#youtube
+{
+height: 400px;
+width:300px;
+margin-top: 5px;
+margin-left: 5px;
+float: left;
+}
+#up2
+{
+height: 300px;
+width: 300px;
+background-color: lightseagreen;
+}
+#lo2
+{
+height: 100px;
+width:300px;
+background-color:darkred;    
+}
+#facebook
+{
+height: 500px;
+width: 300px;
+float: left;
+margin-left:5px;
+margin-top:5px;
+}
+#up3
+{
+height: 400px;
+width: 300px;
+background-color:grey;
+}
+#lo3
+{
+height: 100px;
+width: 300px;
+background-color: rgb(9, 85, 146);
+}
+#amazon
+{
+height: 300px;
+width:300px;
+margin-top: 5px;
+margin-left: 5px;
+float: left;
+}
+#up4
+{
+height: 200px;
+width:300px;
+background-color:lightslategray;
+}
+#lo4
+{
+height: 100px;
+width: 300px;
+background-color:darkgoldenrod;
+}
+#sarkari
+{
+height: 350px;
+width:300px;
+margin-top: 5px;
+margin-left:5px;
+float: left;
+}
+#up5
+{
+height:250px;
+width:300px;
+background-color:khaki;
+}
+#lo5
+{
+height:100px;
+width:300px;
+background-color: rgb(53, 83, 53);
+}
+#gn
+{
+height:400px;
+width:405px;
+margin-top: -150px;
+margin-left:5px;
+float:left;
+}
+#up6
+{
+height:300px;
+width:405px;
+background-color:silver;
+}
+#lo6
+{
+height:100px;
+width:405px;
+background-color: darkslategray;
+}
+#netflix
+{
+height:500px;
+width:300px;
+margin-left:5px;
+margin-top:-250px;
+float: left;
+}
+#up7
+{
+height:400px;
+width:300px;
+background-color:wheat;
+}
+#lo7
+{
+height:100px;
+width:300px;
+background-color: darkred;
+}
+#blogger
+{
+height:400px;
+width:300px;
+margin-left: 5px;
+margin-top:-150px ;
+float:left;
+}
+#up8
+{
+height:300px;
+width:300px;
+background-color:lightyellow;
+}
+#lo8
+{
+height:100px;
+width:300px;
+background-color:steelblue;
+}
+#twitter
+{
+height:245px;
+width:300px;
+margin-left: 5px;
+margin-top:5px;
+float: left;
+}
+#up9
+{
+height:145px;
+width:300px;
+background-color:skyblue;
+}
+#lo9
+{
+height:100px;
+width:300px;
+background-color:darkslategray;
+}
